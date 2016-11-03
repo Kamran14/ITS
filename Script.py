@@ -3,14 +3,15 @@
 'This process takes an image, which is then converted into text and then finally converted into audio 
 'Meant to be used on a raspberry Pi 3
 'Developed by Kamran Tayyab and Johnny Hoang
-RPi.GPIO as GPIO
-import time
-import subprocess
-import os
-GPIO.setmode(GPIO.BCM)
-GPIO.setup(18, GPIO.IN, pull_up_down=GPIO.PUD_UP)
+RPi.GPIO as GPIO 'Using the Pins on the Pi
+import time 'Used for the delay later on
+import subprocess 'Used to open another process
+import os 'Basic OS operators. Used to find path of file and size
 
-filen = "out.txt"
+GPIO.setmode(GPIO.BCM) 'Enable PINS
+GPIO.setup(18, GPIO.IN, pull_up_down=GPIO.PUD_UP) 'Using Pin 18
+'variables
+filen = "out.txt" 
 mouse = True
 
 while True:
