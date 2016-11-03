@@ -20,4 +20,8 @@ This process takes an image, which is then converted into text and then finally 
 * **Kamran Tayyab**  - [KamranT](http://kamrant.ca)
 * **Johnny Hoang** 
 
+## License
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+
 **We are planning on changing the hardware part and making the device into a pair of glasses or a headset. Designs/Ideas might be released soon**
