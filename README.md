@@ -19,4 +19,5 @@ This process takes an image, which is then converted into text and then finally 
 ##Authors
 * **Kamran Tayyab**  - [KamranT](http://kamrant.ca)
 * **Johnny Hoang** 
+
 **We are planning on changing the hardware part and making the device into a pair of glasses or a headset. Designs/Ideas might be released soon**
