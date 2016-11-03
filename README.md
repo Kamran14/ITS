@@ -14,3 +14,5 @@ Software:
 -raspistill (raspberry pi Camera system)
 -espeak (is normally already installed on most devices)
 -Python
+
+**We are planning on changing the hardware part and making the device into a pair of glasses or a headset. Designs/Ideas might be released soon**
