@@ -5,9 +5,9 @@
 This process takes an image, which is then converted into text and then finally converted into audio 
 
 ##Hardware:
--Raspberry Pi (recommended v3)
--Pi Camera
--Button
+* [Raspberry Pi](https://www.raspberrypi.org/) - We recommend V3
+* [Pi Camera](https://www.creatroninc.com/product/camera-board-for-raspberry-pi/) - Getting it to focus is hard. (We've broken 2 in the process of making it focus)
+* Button - Can be any button. We used a simple button
 
 ##Software:
 * [OCR-Tesseract](https://github.com/tesseract-ocr/tesseract) 
