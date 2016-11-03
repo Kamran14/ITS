@@ -1,15 +1,16 @@
 # ITS
-Image.To.Speech
+# Image.To.Speech
 
+### Description:
 This process takes an image, which is then converted into text and then finally converted into audio 
 
-Requirements;
-Hardware:
+### Requirements;
+##Hardware:
 -Raspberry Pi (recommended v3)
 -Pi Camera
 -Button
 
-Software:
+##Software:
 -ocr-tesseract
 -raspistill (raspberry pi Camera system)
 -espeak (is normally already installed on most devices)
