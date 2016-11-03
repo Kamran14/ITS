@@ -15,4 +15,8 @@ This process takes an image, which is then converted into text and then finally 
 * espeak (is normally already installed on most devices)
 * [Python](https://www.python.org/)
 
+
+##Authors
+* **Kamran Tayyab**  - [KamranT](http://kamrant.ca)
+* **Johnny Hoang** 
 **We are planning on changing the hardware part and making the device into a pair of glasses or a headset. Designs/Ideas might be released soon**
