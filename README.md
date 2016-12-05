@@ -17,7 +17,7 @@ This process takes an image, which is then converted into text and then finally 
 
 
 ##Authors
-* **Kamran Tayyab**  - [KamranT](http://kamrant.ca)
+* **Kamran Tayyab**  - [KamranT](http://kamrant.com) 
 * **Johnny Hoang** 
 
 ## License
